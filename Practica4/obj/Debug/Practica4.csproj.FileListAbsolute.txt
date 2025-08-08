@@ -1,0 +1,12 @@
+C:\Users\tonel\OneDrive\Desktop\UNAJ\2025\1ER CUATRI 2025\METODOLOGIAS 1\Practicas_MDPI\Practica4\bin\Debug\Practica4.exe.config
+C:\Users\tonel\OneDrive\Desktop\UNAJ\2025\1ER CUATRI 2025\METODOLOGIAS 1\Practicas_MDPI\Practica4\bin\Debug\Practica4.exe
+C:\Users\tonel\OneDrive\Desktop\UNAJ\2025\1ER CUATRI 2025\METODOLOGIAS 1\Practicas_MDPI\Practica4\bin\Debug\Practica4.pdb
+C:\Users\tonel\OneDrive\Desktop\UNAJ\2025\1ER CUATRI 2025\METODOLOGIAS 1\Practicas_MDPI\Practica4\obj\Debug\Practica4.csprojResolveAssemblyReference.cache
+C:\Users\tonel\OneDrive\Desktop\UNAJ\2025\1ER CUATRI 2025\METODOLOGIAS 1\Practicas_MDPI\Practica4\obj\Debug\Practica4.exe
+C:\Users\tonel\OneDrive\Desktop\UNAJ\2025\1ER CUATRI 2025\METODOLOGIAS 1\Practicas_MDPI\Practica4\obj\Debug\Practica4.pdb
+C:\Users\tonel\OneDrive\Desktop\UNAJ\2025\1ER CUATRIMESTRE\METODOLOGIAS 1\Practicas_MDPI\Practica4\bin\Debug\Practica4.exe.config
+C:\Users\tonel\OneDrive\Desktop\UNAJ\2025\1ER CUATRIMESTRE\METODOLOGIAS 1\Practicas_MDPI\Practica4\bin\Debug\Practica4.exe
+C:\Users\tonel\OneDrive\Desktop\UNAJ\2025\1ER CUATRIMESTRE\METODOLOGIAS 1\Practicas_MDPI\Practica4\bin\Debug\Practica4.pdb
+C:\Users\tonel\OneDrive\Desktop\UNAJ\2025\1ER CUATRIMESTRE\METODOLOGIAS 1\Practicas_MDPI\Practica4\obj\Debug\Practica4.csprojResolveAssemblyReference.cache
+C:\Users\tonel\OneDrive\Desktop\UNAJ\2025\1ER CUATRIMESTRE\METODOLOGIAS 1\Practicas_MDPI\Practica4\obj\Debug\Practica4.exe
+C:\Users\tonel\OneDrive\Desktop\UNAJ\2025\1ER CUATRIMESTRE\METODOLOGIAS 1\Practicas_MDPI\Practica4\obj\Debug\Practica4.pdb
